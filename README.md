@@ -16,7 +16,8 @@
 <a href="https://raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/> </a>  
 
 
-[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h?count_private=true)](https://github.com/brendan-h)
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h&count_private=true)
+](https://github.com/brendan-h)
  <!---<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f283291-3814-481e-8307-240daee9ce94" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!---
 Brendan-H/brendan-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
