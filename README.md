@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brendan-H
-- 👀 I’m interested in ... Flutter!
+
 
 <h3 align="left">Languages and Tools:</h3>
 
