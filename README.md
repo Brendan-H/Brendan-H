@@ -15,7 +15,9 @@
 <a href="https://microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="75" style="vertical-align:top; margin:4px">
 <a href="https://raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="75" height="75"/> </a>  
  <a href="https://admob.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg" alt="Admob" width="75" height="75"/> </a> 
+   <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="Dotnet" width="75" height="75"/> </a> 
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
+ <a href="https://cloudflare.com" target="_blank"> <img src= "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/> </a>
 
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h&count_private=true)
