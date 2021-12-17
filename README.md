@@ -14,6 +14,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 <a href="https://microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 <a href="https://raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="40" height="40"/> </a>  
+ <a href="https://admob.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg" alt="Admob" width="40" height="40"/> </a> 
 
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h&count_private=true)
