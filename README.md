@@ -18,7 +18,9 @@
    <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="Dotnet" width="75" height="75"/> </a> 
  <a href="https://unity.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="75" height="75"/> </a>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
+  <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="75" height="75"/> </a>
  <a href="https://cloudflare.com" target="_blank"> <img src= "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/> </a>
+
 
 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h&count_private=true)
