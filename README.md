@@ -25,7 +25,7 @@
  <h3 align="left">My Certifications:</h3>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
 
-[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-h&count_private=true)
+[![Brendan's GitHub stats](https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true)
 ](https://github.com/brendan-h)
 
 [![Top Langs](http://github-stats.brendanharan.com/api/top-langs/?username=brendan-h&count_private=true)](https://github.com/brendan-h)
