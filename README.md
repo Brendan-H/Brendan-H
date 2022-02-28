@@ -24,12 +24,16 @@
 
  <h3 align="left">My Certifications:</h3>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
+<br/>
 
-[![Brendan's GitHub stats](https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true)
-](https://github.com/brendan-h)
+<a href="https://github.com/brendan-h">
+  <img align="center" src="https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true" alt="Github Stats" />
+</a>
+ <a href="https://github.com/brendan-h">
+  <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true" alt="Most Used Languages" />
+</a>
+ 
 
-[![Top Langs](http://github-stats.brendanharan.com/api/top-langs/?username=brendan-h&count_private=true)](https://github.com/brendan-h)
- <!---<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f283291-3814-481e-8307-240daee9ce94" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!---
 Brendan-H/brendan-h is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
