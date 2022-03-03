@@ -22,7 +22,7 @@
 <a href="https://raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="75" height="75"/> </a>  
  <a href="https://admob.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg" alt="Admob" width="75" height="75"/> </a> 
  <a href="https://unity.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="75" height="75"/> </a>
- <a href="https://cloudflare.com" target="_blank"> <img src= "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/> </a>
+
 
  <h3 align="left">My Certifications:</h3>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
