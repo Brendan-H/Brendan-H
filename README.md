@@ -34,7 +34,7 @@
   <img align="center" src="https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true" alt="Github Stats" />
 </a>
  <a href="https://github.com/brendan-h">
-  <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true" alt="Most Used Languages" />
+  <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true&hide=html, cmake, css&langs_count=10" alt="Most Used Languages" />
 </a>
  
 
