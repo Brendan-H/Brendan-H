@@ -3,10 +3,10 @@
 <h3 align="left">Languages:</h3>
 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/> </a> 
-<a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="75" height="75"/> </a>
 <a href="https://java.com" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="75" height="75"/> </a>
 <!---<a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="Dotnet" width="75" height="75"/> </a> --->
-
+<!---
+<a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="75" height="75"/> </a> --->
 <h3 align="left">Frameworks:</h3>
            <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/> </a>
            <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="150" height="75"/> </a>
@@ -24,6 +24,8 @@
 <a href="https://raspberrypi.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry pi" width="75" height="75"/> </a>  
  <a href="https://admob.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg" alt="Admob" width="75" height="75"/> </a> 
  <a href="https://unity.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="75" height="75"/> </a>
+ <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="75" height="75"/> </a>
+           
 
 
  <h3 align="left">My Certifications:</h3>
