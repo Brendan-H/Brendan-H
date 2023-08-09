@@ -26,14 +26,16 @@
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="75" height="75"/> </a>
            
 
-
+<!---
  <h3 align="left">My Certifications:</h3>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
 <br/>
+--->
 
 <a href="https://github.com/brendan-h">
   <img align="center" src="https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true" alt="Github Stats" />
 </a>
+
  <a href="https://github.com/brendan-h">
   <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true&hide=html,css,cmake,c%2B%2B,ruby,TypeScript,c&langs_count=5" alt="Most Used Languages" />
 </a>
