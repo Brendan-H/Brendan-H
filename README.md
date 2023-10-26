@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Brendan-H
+- Looking for Haran 3D Printing and Laser Cutting? I will restart orders after January 1st and reopen [brendanharan.com](https://brendanharan.com) then.
 
 <h3 align="left">Languages:</h3>
 
