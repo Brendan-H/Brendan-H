@@ -1,19 +1,17 @@
 - 👋 Hi, I’m @Brendan-H
-- Looking for Haran 3D Printing and Laser Cutting? I will restart orders after January 1st and reopen [brendanharan.com](https://brendanharan.com) then.
+- Note: brendanharan.com will be reopened after the GoDaddy --> Cloudflare switch goes through.
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages: Dart, Java, C#</h3>
 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/> </a> 
 <a href="https://java.com" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="75" height="75"/> </a>
-<!---<a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="Dotnet" width="75" height="75"/> </a> --->
-<!---
-<a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="75" height="75"/> </a> --->
-<h3 align="left">Frameworks:</h3>
+
+<h3 align="left">Frameworks: Flutter, Spring</h3>
            <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/> </a>
            <a href="https://spring.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring" width="150" height="75"/> </a>
            
            
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools: Android, Firebase, Git+Github, Windows, Raspberry Pi, Admob, Unity, Heroku, Docker</h3>
 
  <a href="https://developer.
  android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="75" height="75"/> </a> 
@@ -25,13 +23,14 @@
  <a href="https://admob.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_admob/google_admob-ar21.svg" alt="Admob" width="75" height="75"/> </a> 
  <a href="https://unity.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="75" height="75"/> </a>
  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="75" height="75"/> </a>
+ <a href="https://docker.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="75" height="75"/> </a>
            
 
-<!---
+
  <h3 align="left">My Certifications:</h3>
  <a href="https://autocad.com" target="_blank"> <img src= "/autodesk-autocad-certified-user.png" alt="Autocad Certified" width="75" height="75"/> </a>
 <br/>
---->
+
 
 <a href="https://github.com/brendan-h">
   <img align="center" src="https://github-stats.brendanharan.com/api?username=brendan-h&count_private=true" alt="Github Stats" />
