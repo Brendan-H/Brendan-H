@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brendan-H
 - Note: brendanharan.com will be reopened after the GoDaddy --> Cloudflare switch goes through.
 
-<h3 align="left">Languages: Dart, Java, C#</h3>
+<h3 align="left">Languages: Dart, Java</h3>
 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/> </a> 
 <a href="https://java.com" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="75" height="75"/> </a>
