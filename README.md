@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Brendan-H
-- Note: brendanharan.com will be reopened after the GoDaddy --> Cloudflare switch goes through.
-- I've turned two of my repositiories public for the time being, but they will be private again around April of 2024.
 
 <h3 align="left">Languages: Dart, Java</h3>
 
