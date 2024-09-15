@@ -16,7 +16,7 @@
 </a>
 
  <a href="https://github.com/brendan-h">
-  <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true&hide=html,c,c%2B%2B,css,cmake,ruby,TypeScript&langs_count=3" alt="Most Used Languages" />
+  <img align="center" src="https://github-stats.brendanharan.com/api/top-langs?username=brendan-h&count_private=true&hide=html,c,c%2B%2B,css,cmake,ruby,shell,JavaScript,makefile,swift,assembly&langs_count=4" alt="Most Used Languages" />
 </a>
  
 
