@@ -1,9 +1,11 @@
 
 
-<h3 align="left">Languages: Dart, Java</h3>
+<h3 align="left">Languages: Dart, Java, C++, Python</h3>
 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="75" height="75"/> </a> 
 <a href="https://java.com" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="75" height="75"/> </a>
+<a href="https://isocpp.org" target="_blank"> <img src= "https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="75" height="75"/> </a>
+<a href="https://python.org" target="_blank"> <img src= "https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" width="75" height="75"/> </a>
 
 <h3 align="left">Frameworks: Flutter, Spring</h3>
            <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="75" height="75"/> </a>
